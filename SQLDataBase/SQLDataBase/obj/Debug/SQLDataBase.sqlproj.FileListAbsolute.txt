@@ -1,0 +1,10 @@
+C:\Users\Aries Penetrante\source\repos\SQLDataBase\SQLDataBase\bin\Debug\SQLDataBase.dacpac
+C:\Users\Aries Penetrante\source\repos\SQLDataBase\SQLDataBase\bin\Debug\SQLDataBase.dll
+C:\Users\Aries Penetrante\source\repos\SQLDataBase\SQLDataBase\bin\Debug\SQLDataBase.pdb
+C:\Users\Aries Penetrante\source\repos\SQLDataBase\SQLDataBase\obj\Debug\SQLDataBase.sqlprojAssemblyReference.cache
+C:\Users\Aries Penetrante\source\repos\SQLDataBase\SQLDataBase\obj\Debug\Model.xml
+C:\Users\Aries Penetrante\source\repos\SQLDataBase\SQLDataBase\obj\Debug\refactor.xml
+C:\Users\Aries Penetrante\source\repos\SQLDataBase\SQLDataBase\obj\Debug\postdeploy.sql
+C:\Users\Aries Penetrante\source\repos\SQLDataBase\SQLDataBase\obj\Debug\predeploy.sql
+C:\Users\Aries Penetrante\source\repos\SQLDataBase\SQLDataBase\obj\Debug\SQLDataBase.dll
+C:\Users\Aries Penetrante\source\repos\SQLDataBase\SQLDataBase\obj\Debug\SQLDataBase.pdb
